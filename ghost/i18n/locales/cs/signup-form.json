@@ -1,9 +1,9 @@
-{
-    "Email sent": "",
-    "Now check your email!": "",
-    "Please enter a valid email address": "",
-    "Something went wrong, please try again.": "",
-    "Subscribe": "",
-    "To complete signup, click the confirmation link in your inbox. If it doesn't arrive within 3 minutes, check your spam folder!": "",
-    "Your email address": ""
+-{
+    "Email sent": "E-mail byl odeslán",
+    "Now check your email!": "Podívejte se do doručené pošty!",
+    "Please enter a valid email address": "Napište platnou mailovou adresu",
+    "Something went wrong, please try again.": "Něco se pokazilo, zkuste to znovu",
+    "Subscribe": "Odebírat",
+    "To complete signup, click the confirmation link in your inbox. If it doesn't arrive within 3 minutes, check your spam folder!": "K dokončení registrace klikněte na link v doručené poště. Pokud během 3 minut nepřijde, zkontrolujte spam"",
+    "Your email address": "Vaše e-mailová adresa"
 }
